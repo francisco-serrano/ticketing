@@ -4,7 +4,7 @@ export default ({ req }) => {
     if (typeof window === 'undefined') {
         // we are on the server
         return axios.create({
-            baseURL: 'http://www.metegol-app.com/',
+            baseURL: 'http://www.somedomain-app.xyz/',
             headers: req.headers,
         });
     } else {
