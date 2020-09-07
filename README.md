@@ -14,3 +14,4 @@ Full Microservices-based ticketing application using NextJS + NodeJS, built duri
 - MongoDB
 - Redis
 - NATS
+- Digital Ocean
